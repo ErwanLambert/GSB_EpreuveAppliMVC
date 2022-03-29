@@ -13,7 +13,7 @@
  * @author    Lambert Erwan <>
  * @author    Maestracci Rémi <>
  * @copyright 2017 Réseau CERTA
- * @license   Réseau CERTA
+ * @license   Réseaux CERTA
  * @version   GIT: <0>
  * @link      http://www.reseaucerta.org Contexte « Laboratoire GSB »
  */
