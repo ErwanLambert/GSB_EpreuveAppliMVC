@@ -68,7 +68,7 @@
             $id = $unFraisHorsForfait['id'];
             ?>
             <?php
-            if (substr($libelle, 0, 6) === 'REFUSE') {
+            if (substr($libelle, 0,6)=== 'REFUSE') {
                 ?> <tr  style="background-color: indianred;"><?php
             } else {
                 ?><tr><?php }

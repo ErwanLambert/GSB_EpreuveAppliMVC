@@ -153,7 +153,7 @@ switch ($action) {
         ?></br>
         <div class="alert alert-info" role="alert">
             <p><h4>Voulez vous modifier ou supprimer le frais?<br></h4>
-            <a href="index.php?uc=valideFrais&action=supprimer&idFrais=<?php echo $unIdFrais ?>">Supprimer</a> 
+            <a href="index.php?uc=valideFrais&action=supprimer&idFrais=<?php echo $unIdFrais ?>">Refuser</a> 
             ou <a href="index.php?uc=valideFrais&action=reporter&idFrais=<?php echo $unIdFrais ?>&mois=<?php echo $ceMois ?>&id=<?php echo $idVisiteur ?>">Reporter</a></p>
         </div>
         <?php
